@@ -8,3 +8,6 @@ streamlit
 flask
 fastapi
 jupyter
+langchain_openai
+langchain_core
+langgraph
