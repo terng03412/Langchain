@@ -1,0 +1,10 @@
+langchain
+langgraph
+openai
+e2b
+pinecone-client
+faiss-cpu
+streamlit
+flask
+fastapi
+jupyter
